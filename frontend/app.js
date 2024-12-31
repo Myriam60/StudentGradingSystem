@@ -1,0 +1,1 @@
+console.log("Bienvenue dans le système de gestion des notes !");
